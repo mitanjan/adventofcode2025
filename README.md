@@ -1,3 +1,3 @@
-Python implementation of algorithms used to solve [advent of code 2025](https://adventofcode.com) puzzles.
+Vibecoded Python implementation of algorithms used to solve [advent of code 2025](https://adventofcode.com) puzzles.
 
-⚠️ AI slop
+
